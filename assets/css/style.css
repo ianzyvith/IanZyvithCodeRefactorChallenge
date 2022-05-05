@@ -54,7 +54,7 @@ a {
 }
 
 /* styles for hero */
-.hero {
+section {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -99,7 +99,7 @@ main {
 }
 
 /* styles for benefits */
-section {
+article {
     margin-right: 20px;
     padding: 20px;
     clear: both;
